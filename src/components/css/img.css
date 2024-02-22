@@ -1,0 +1,29 @@
+
+.img-i{
+    border-radius: 20px;
+    box-shadow: 5px 5px 8px gray;
+    transition: all ease.5s;
+    margin: 80px;
+    display: flex;
+    width: 90%;
+    height: 250px;
+    /* display: block; */
+    margin-left: auto;
+    margin-right: auto;
+}
+.img-i:hover{
+    transform: scale(1.1);
+   
+}
+.card-1:hover{
+    transform: scale(1.1);
+   
+}
+
+.img-p{
+    display:flex;
+  justify-content: space-evenly;
+}
+.card-1{
+
+}

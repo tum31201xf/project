@@ -1,0 +1,21 @@
+.header{
+    background-color: rgb(97, 130, 100);
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+    padding: 10px;
+    list-style: none;
+}
+.menu a{
+    padding: 10px;
+    display: inline-block;
+}
+.login{
+    padding: 20px;
+    display: inline-block;
+}
+.imglogo{
+    padding: 20px;
+    margin: 10px;
+}
